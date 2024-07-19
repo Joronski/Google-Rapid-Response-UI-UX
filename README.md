@@ -2,6 +2,10 @@
 # Google Rapid Response UI-UX
 Team Hev IT's Entry in Google Developer Student Clubs in Pamantasan ng Lungsod ng Maynila's Hackathon: InnOlympics 2024
 
+User Interface (Design Link): https://www.figma.com/design/sGP5jIQMpUkEz6rFVoGN7F/Google-Rapid-Response-UI-(InnOlympics-2024)?node-id=0-1&t=vCpZTSl6CFjBlB4j-1
+
+User Experience (Prototype Link): https://www.figma.com/board/tNBxNVoJEXU37goE4v0vve/Google-Rapid-Response-UX-(InnOlympics-2024)?node-id=0-1&t=sv0zpQv9ZslWu3HA-1
+
 # Rapid Response - Google Developers Student Club - PLM: InnOlympics 2024 Entry - Hev IT (Java - Mobile User)
 
 **Problem Statement**
